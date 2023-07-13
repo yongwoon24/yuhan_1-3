@@ -6,4 +6,9 @@
 			<item value="org.eclipse.ui.Basic"/>
 		</list>
 	</section>
+<<<<<<< HEAD
+=======
+	<section name="ZipFileImportWizard">
+	</section>
+>>>>>>> fea3978be54c6708ee74b6e851f6250684e7162d
 </section>
