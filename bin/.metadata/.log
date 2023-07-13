@@ -1,4 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> lyw
 !SESSION 2023-07-06 20:47:58.114 -----------------------------------------------
 eclipse.buildId=4.21.0.I20210906-0500
 java.version=16.0.2
@@ -38,6 +43,10 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 eclipse.buildId=4.19.0.202306150758
 java.version=17.0.7
 =======
+<<<<<<< HEAD
+=======
+>>>>>>> sj
+>>>>>>> lyw
 !SESSION 2023-07-10 21:01:38.717 -----------------------------------------------
 eclipse.buildId=4.18.0.202303131455
 java.version=17.0.6
@@ -186,12 +195,43 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.e
 !ENTRY org.eclipse.jface 2 0 2023-07-10 21:06:01.435
 !MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
 !SUBENTRY 1 org.eclipse.jface 2 0 2023-07-10 21:06:01.435
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+!SESSION 2023-07-06 20:47:58.114 -----------------------------------------------
+eclipse.buildId=4.21.0.I20210906-0500
+java.version=16.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2023-07-06 20:48:22.680
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-07-06 20:48:22.680
+>>>>>>> fea3978be54c6708ee74b6e851f6250684e7162d
+=======
+>>>>>>> sj
+>>>>>>> lyw
 !MESSAGE A conflict occurred for CTRL+SHIFT+T:
 Binding(CTRL+SHIFT+T,
 	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
 		Open a type in a Java editor,
 		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+<<<<<<< HEAD
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@55ba4bff,
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@55ba4bff,
+=======
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7210f559,
+>>>>>>> fea3978be54c6708ee74b6e851f6250684e7162d
+=======
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@55ba4bff,
+>>>>>>> sj
+>>>>>>> lyw
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
@@ -199,6 +239,13 @@ Binding(CTRL+SHIFT+T,
 	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
 		,
 		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> sj
+>>>>>>> lyw
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3705a85c,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
@@ -218,10 +265,26 @@ Binding(ALT+SHIFT+R,
 		Rename the selected item,
 		Category(org.eclipse.ui.category.file,File,null,true),
 		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5b11d0d8,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@49b9ba6a,
+>>>>>>> fea3978be54c6708ee74b6e851f6250684e7162d
+=======
+>>>>>>> sj
+>>>>>>> lyw
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> sj
+>>>>>>> lyw
 !ENTRY org.eclipse.core.runtime 4 0 2023-07-10 21:06:03.565
 !MESSAGE Invalid input url:platform:/plugin/org.springframework.ide.eclipse.boot.dash/icons/boot-icon.png
 !STACK 0
@@ -675,11 +738,35 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 !SESSION 2023-07-10 21:08:20.387 -----------------------------------------------
 eclipse.buildId=4.18.0.202303131455
 java.version=17.0.6
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+!ENTRY org.eclipse.egit.ui 2 0 2023-07-06 20:48:29.133
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\tjdwn'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2023-07-10 21:57:26.251 -----------------------------------------------
+eclipse.buildId=4.19.0.202306150758
+java.version=17.0.7
+>>>>>>> fea3978be54c6708ee74b6e851f6250684e7162d
+=======
+>>>>>>> sj
+>>>>>>> lyw
 java.vendor=Eclipse Adoptium
 BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
 Framework arguments:  -product org.springframework.boot.ide.branding.sts4
 Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> sj
+>>>>>>> lyw
 !ENTRY ch.qos.logback.classic 1 0 2023-07-10 21:08:21.047
 !MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
 
@@ -689,6 +776,23 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springfra
 !ENTRY org.eclipse.jface 2 0 2023-07-10 21:08:29.683
 !MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
 !SUBENTRY 1 org.eclipse.jface 2 0 2023-07-10 21:08:29.683
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+!ENTRY org.eclipse.emf.ecore 2 0 2023-07-10 21:57:27.113
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-07-10 21:57:55.542
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface 2 0 2023-07-10 21:57:57.346
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-07-10 21:57:57.346
+>>>>>>> fea3978be54c6708ee74b6e851f6250684e7162d
+=======
+>>>>>>> sj
+>>>>>>> lyw
 !MESSAGE A conflict occurred for CTRL+SHIFT+T:
 Binding(CTRL+SHIFT+T,
 	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
@@ -706,6 +810,13 @@ Binding(CTRL+SHIFT+T,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> sj
+>>>>>>> lyw
 !SUBENTRY 1 org.eclipse.jface 2 0 2023-07-10 21:08:29.683
 !MESSAGE A conflict occurred for ALT+SHIFT+R:
 Binding(ALT+SHIFT+R,
@@ -884,10 +995,29 @@ java.lang.NullPointerException: Cannot invoke "org.eclipse.ui.intro.IIntroPart.g
 !ENTRY org.eclipse.egit.ui 2 0 2023-07-10 21:08:31.349
 !MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
 user global configuration and to define the default location to store repositories: 'C:\Users\qoryg'. If this is
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-07-10 21:57:59.354
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\tjdwn'. If this is
+>>>>>>> fea3978be54c6708ee74b6e851f6250684e7162d
+=======
+>>>>>>> sj
+>>>>>>> lyw
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> sj
+>>>>>>> lyw
 !ENTRY org.eclipse.e4.ui.workbench 2 0 2023-07-10 21:08:31.383
 !MESSAGE Removing PartDescriptorImpl with the "org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" id and the "Data Source Explorer" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
 
@@ -947,4 +1077,30 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.e4.ui.workbench 2 0 2023-07-10 21:08:31.389
 !MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wst.xsl.ui.view.outline" id and the "Stylesheet Model" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+<<<<<<< HEAD
 >>>>>>> 02452c94e2f4346398474d3960f135b3d271e126
+=======
+<<<<<<< HEAD
+=======
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-07-10 21:57:59.373
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.eclemma.ui.CoverageView" id and the "Coverage" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-07-10 21:57:59.381
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.oomph.p2.ui.RepositoryExplorer" id and the "Repository Explorer" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-07-10 21:57:59.382
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.search.SearchResultView" id and the "Classic Search" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-07-10 21:57:59.388
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.ui.views.ResourceNavigator" id and the "Navigator (Deprecated)" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-07-10 21:57:59.390
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wst.xml.ui.views.annotations.XMLAnnotationsView" id and the "Documentation" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-07-10 21:57:59.391
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wst.xml.ui.contentmodel.view" id and the "Content Model" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+>>>>>>> fea3978be54c6708ee74b6e851f6250684e7162d
+=======
+>>>>>>> 02452c94e2f4346398474d3960f135b3d271e126
+>>>>>>> sj
+>>>>>>> lyw
